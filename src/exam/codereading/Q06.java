@@ -21,3 +21,4 @@ public class Q06 {
 		f(3);
 	}
 }
+//1

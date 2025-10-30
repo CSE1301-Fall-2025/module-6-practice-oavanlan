@@ -23,3 +23,9 @@ public class Q08 {
 		System .out. println ( select (val1 , 4, 4));
 	}
 }
+//T
+//E
+//R
+//I
+//T
+//E
